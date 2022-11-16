@@ -2,7 +2,7 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from China. <br />
+I'm a self-taught passionate FrontEnd developer. <br />
 I'm also a digital nomad.
 
 **About me**
