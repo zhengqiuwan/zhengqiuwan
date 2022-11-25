@@ -1,4 +1,4 @@
-<p align="center"><a href="https://qiuqiu.925i.cn/"><img width="80%" alt="Hello, I'm Summer. " src="./assets/gh-readme-header.png" /></a></p>
+🙋<p align="center"><a href=" "><img width="80%" alt="Hello, I'm Summer. " src="" /></a></p>
 
 <br />
 
@@ -7,9 +7,9 @@ I'm also a digital nomad.
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Summer](https://qiuqiu.925i.cn/)
+- 💼 FrontEnd Engineer at [Summer]
 
-<!-- - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub -->
+<!--  (https://qiuqiu.925i.cn/)- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub -->
 
 - ❤️ All in web3. Keep learning.
 <!-- 
