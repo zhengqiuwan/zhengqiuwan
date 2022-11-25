@@ -11,7 +11,7 @@ I'm also a digital nomad.
 
 <!-- - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub -->
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ All in web3. Keep learning.
 <!-- 
 - 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues) -->
 
