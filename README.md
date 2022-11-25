@@ -1,7 +1,8 @@
-🙋<p align="center"><a href=" "><img width="80%" alt="Hello, I'm Summer. " src="" /></a></p>
+<!-- 🙋<p align="center"><a href=" "><img width="80%" alt="Hello, I'm Summer. " src="" /></a></p> -->
+**🙋Hello, I'm Summer.**
 
 <br />
-
+<br />
 I'm a self-taught passionate FrontEnd developer. <br />
 I'm also a digital nomad.
 
