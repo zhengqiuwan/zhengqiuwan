@@ -1,10 +1,6 @@
 <!-- 🙋<p align="center"><a href=" "><img width="80%" alt="Hello, I'm Summer. " src="" /></a></p> -->
 **🙋Hello, I'm qiuqiu.**
 
-
-**About me**
-
-
 - ❤️ All in web3. Keep learning.
 <!-- 
 - 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues) -->
