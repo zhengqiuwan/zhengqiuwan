@@ -1,14 +1,9 @@
 <!-- 🙋<p align="center"><a href=" "><img width="80%" alt="Hello, I'm Summer. " src="" /></a></p> -->
-**🙋Hello, I'm Summer.**
+**🙋Hello, I'm qiuqiu.**
 
-<br />
-I'm a passionate FrontEnd developer. <br />
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Summer]
-
-<!--  (https://qiuqiu.925i.cn/)- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub -->
 
 - ❤️ All in web3. Keep learning.
 <!-- 
